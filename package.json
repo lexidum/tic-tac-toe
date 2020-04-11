@@ -1,0 +1,26 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "a tic-tac-toe game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexidum/tic-tac-toe.git"
+  },
+  "keywords": [
+    "games",
+    "tic-tac-toe"
+  ],
+  "author": "Alexandra Dumitrescu",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/lexidum/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/lexidum/tic-tac-toe#readme",
+  "devDependencies": {
+    "jest": "^25.3.0"
+  }
+}
